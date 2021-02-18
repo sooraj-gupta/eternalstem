@@ -1,2 +1,2 @@
 # eternalstem
-EternalSTEM official website. (temporary name) 
+EternalSTEM website. (temporary name) 
